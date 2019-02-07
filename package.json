@@ -1,0 +1,14 @@
+{
+  "name": "peredatchik",
+  "version": "1.0.0",
+  "description": "На самом деле я не знаю",
+  "main": "peredatchik.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Зоя Холодильникова",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
+
